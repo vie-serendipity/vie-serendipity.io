@@ -1,8 +1,9 @@
 # Hello, welcome to VIE
 
-## Education Experience
+### Education Experience
 Nanjing University
-## Works
+### Works
 * *Plants VS Zombies* [Github](https://vie-serendipity.github.io/vie-serendipity.io)
-## Contact me
+
+### Contact me
 E-mail 
